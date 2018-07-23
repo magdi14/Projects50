@@ -10,7 +10,7 @@
     color: darkslategray;
 }
 #prop{
-    margin-left: 130px;
+    margin-left: 100px;
 }
 h1[name=ed]{
     text-align: center;
@@ -22,4 +22,7 @@ h1[name=ed]{
     width: 50%;
     margin-left: 350px;
     margin-top: 80px;
+}
+#fav{
+    margin-left: 100px;
 }
