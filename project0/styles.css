@@ -1,0 +1,14 @@
+#profile{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.name{
+    font-family: 'Geneva', Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: darkslategray;
+}
+#prop{
+    margin-left: 130px;
+}
