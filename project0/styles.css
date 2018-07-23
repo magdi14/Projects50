@@ -12,3 +12,14 @@
 #prop{
     margin-left: 130px;
 }
+h1[name=ed]{
+    text-align: center;
+    font-family: sans-serif, Arial, Helvetica;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.tbl{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 80px;
+}
