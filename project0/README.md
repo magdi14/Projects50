@@ -1,1 +1,1 @@
-Personal webpage about Mohamed Magdy.
+Personal webpage about "X".
