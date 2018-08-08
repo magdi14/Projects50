@@ -1,0 +1,12 @@
+$backGround: #dee4ed;
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box > div{
+    background-color: $backGround;
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+}
