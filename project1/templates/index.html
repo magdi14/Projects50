@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+  {%block nav%}
+  <div class="navbar-nav">
+      <a class="nav-item nav-link" href="#">log out</a>
+    </div>
+  {%endblock%}
+{%block body%}
+  <div class="container">
+    <div>
+      <form>
+        <div class="form-row">
+          <div class="col-2">
+            <label for="inputFName">First Name</label>
+            <input type="text" class="form-control" id="exampleInput" placeholder="First Name">
+          </div>
+          <div class="col-2">
+            <label for="inputLName">Last Name</label>
+            <input type="text" class="form-control" id="exampleInput" placeholder="Last Name">
+          </div>
+        </div>
+        <div class=" form-row">
+          <div class="col-4">
+            <label for="inputUserName">Username</label>
+            <input type="text" class="form-control" id="exampleInputUserName" placeholder="Enter Username">
+          </div>
+        </div>
+        <div class=" form-row">
+          <div class="col-4">
+            <label for="inputEmail">Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+          </div>
+        </div>
+        <div class=" form-row">
+          <div class="col-4">
+            <label for="exampleInputPassword1">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      </div>
+    </div>
+{%endblock%}

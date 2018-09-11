@@ -1,14 +1,12 @@
-.box {
+.content {
   display: flex;
-  flex-wrap: wrap;
 }
 
-.box > div {
-  background-color: #dee4ed;
+.content > div {
+  background-color: #d7dce4e0;
   font-size: 20px;
   margin: 20px;
   padding: 20px;
-  width: 200px;
 }
 
 /*# sourceMappingURL=styleSaas.css.map */
